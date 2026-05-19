@@ -20,6 +20,10 @@ directory of that codebase.
 - `analyze_results.py` — analysis script
 - `run_experiments_noisy.sh` — noisy client experiment grid
 
+## Experiment Scripts
+- `run_experiments_main.sh` — runs the main experiment grid (180 runs)
+- `run_experiments_noisy.sh` — runs the noisy client experiment grid (180 runs)
+
 ## Requirements
 Python 3.13, Flower 1.27.0, PyTorch 2.11.0
 
